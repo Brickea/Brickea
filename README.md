@@ -1,4 +1,4 @@
-# NOTE
+# 个人网页样式NOTE
 
 BRICKEA
 
