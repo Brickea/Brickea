@@ -20,6 +20,10 @@ footer {
 -------------------------------------------------- */
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar{
+  margin-bottom: 0px;
+}
+
 .navbar-wrapper {
   position: absolute;
   top: 0;

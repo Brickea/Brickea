@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-    <meta name="description" content="Brickea的个人展示网页">
+    <meta name="description" content="Brickea的个人主页">
     <meta name="author" content="Brickea">
     <link rel="icon" href="./pictures/favicon.ico">
 
@@ -27,51 +27,60 @@
 ================================================== -->
 
 <body>
-    <div class="navbar-wrapper">
-        <div class="container">
 
-            <nav class="navbar navbar-inverse navbar-static-top">
-                <div class="container">
-                    <div class="navbar-header">
-                        <a class="navbar-brand">
-                            <img class="img-responsive" alt="Brickea的头像" src="./pictures/favicon.ico" style="height: 2rem;">
+    <nav class="navbar navbar-inverse navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand">
+                    <img class="img-responsive" alt="Brickea的头像" src="./pictures/favicon.ico" style="height: 2rem;">
+                </a>
+                <a class="navbar-brand" href="https://github.com/Brickea">Brickea</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active">
+                        <a href="#">首页</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">笔记
+                            <span class="caret"></span>
                         </a>
-                        <a class="navbar-brand" href="https://github.com/Brickea">Brickea</a>
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav">
-                            <li class="active">
-                                <a href="#">首页</a>
-                            </li>
+                        <ul class="dropdown-menu">
                             <li>
-                                <a href="./notes/note_0.html">笔记</a>
+                                <a href="./notes/note_0.html">FreeCodeCamp学习笔记</a>
                             </li>
-                            <li>
-                                <a href="https://github.com/Brickea">My Github</a>
+                            <li class="disabled">
+                                <a href="#">JS奇淫技巧</a>
                             </li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">故事
-                                    <span class="caret"></span>
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li class="disabled">
-                                        <a href="#">支教</a>
-                                    </li>
-                                    <li class="disabled">
-                                        <a href="#">思索</a>
-                                    </li>
-                                    <li class="disabled">
-                                        <a href="#">杂七杂八</a>
-                                    </li>
-                                </ul>
+                            <li class="disabled">
+                                <a href="#">面试笔记</a>
                             </li>
                         </ul>
-                    </div>
-                </div>
-            </nav>
-
+                    </li>
+                    <li>
+                        <li>
+                            <a href="https://github.com/Brickea">My Github</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">故事
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="disabled">
+                                    <a href="#">支教</a>
+                                </li>
+                                <li class="disabled">
+                                    <a href="#">思索</a>
+                                </li>
+                                <li class="disabled">
+                                    <a href="#">杂七杂八</a>
+                                </li>
+                            </ul>
+                        </li>
+                </ul>
+            </div>
         </div>
-    </div>
+    </nav>
 
 
     <!-- Carousel
@@ -142,15 +151,13 @@
         <!-- Three columns of text below the carousel -->
         <div class="row">
             <div class="col-lg-4">
-                <img class="img-circle" src="./pictures/关于我.jpg"
-                    width="140" height="140">
+                <img class="img-circle" src="./pictures/关于我.jpg" width="140" height="140">
                 <h2>关于我</h2>
                 <p>以算法工程师技术性leader为目标的coder，目前以前端为主要方向。平常看到猫就迈不动脚</p>
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img class="img-circle" src="./pictures/独乐乐不如众乐乐.png"
-                    width="140" height="140">
+                <img class="img-circle" src="./pictures/独乐乐不如众乐乐.png" width="140" height="140">
                 <h2>烂笔头</h2>
                 <p>我经尝会写一些平常自己的学习笔记，为了整理学习的思路和学习过的知识体系，也会有一些琐碎的编程知识。独乐乐不如众乐乐，如果这些笔记能帮到你，我会很开心的</p>
                 <p>
@@ -159,8 +166,7 @@
             </div>
             <!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img class="img-circle" src="./pictures/故事和酒.jpg"
-                    width="140" height="140">
+                <img class="img-circle" src="./pictures/故事和酒.jpg" width="140" height="140">
                 <h2>故事</h2>
                 <p>你有伏特加吗 <br></p>
                 <p>
@@ -174,7 +180,8 @@
         <!-- FOOTER -->
         <footer>
             <p>
-                Coded with <span class="glyphicon glyphicon-music"></span> and <span class="glyphicon glyphicon-heart"></span> by Brickea
+                Coded with <span class="glyphicon glyphicon-music"></span> and <span class="glyphicon glyphicon-heart"></span>
+                by Brickea
             </p>
 
     </div>
