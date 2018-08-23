@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <meta name="description" content="Brickea的笔记">
+  <meta name="author" content="Brickea">
+  <link rel="icon" href="../../pictures/favicon.ico">
+
+  <title>Brickea的笔记</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="../../css/noteStyle.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <!-- 由于github挂载目前只能是静态网页，所以先把内容写死在这里，注意前面不能有空格，否则md文件无法正常解析 -->
+  <textarea id="content" style="display: none;">
+# FCC学习笔记
+
+BRICKEA
+
+## [HTML5 CSS](../../../HTML5_CSS.md)
+
+## [Responsive Design](../../../Responsive_Design.md)
+
+## [jQuery](../../../jQuery.md)
+
+## [JS](../../../JS.md)
+
+## [JSObjectPrograming](../../../JSObjectPrograming.md)
+
+* 大部分是针对数组对象的操作
+
+## [个人网页样式NOTE](个人网页样式NOTE.html)
+
+</textarea>
+
+  <nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand">
+          <img class="img-responsive" alt="Brickea的头像" src="../../pictures/favicon.ico" style="height: 2rem;">
+        </a>
+        <a class="navbar-brand" href="https://github.com/Brickea">Brickea</a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="../../index.html">首页</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">笔记
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="./note_0.html">FreeCodeCamp学习笔记</a>
+              </li>
+              <li class="disabled">
+                <a href="#">JS奇淫技巧</a>
+              </li>
+              <li class="disabled">
+                <a href="#">面试笔记</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="https://github.com/Brickea">My Github</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">故事
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="../../story/旅途/story_trip_0.html">旅途</a>
+              </li>
+              <li class="disabled">
+                <a href="#">支教</a>
+              </li>
+              <li class="disabled">
+                <a href="#">杂七杂八</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container MyNote">
+
+    <div class="row">
+
+      <div class="col-sm-8 blog-main" id="result">
+
+
+        <!-- /.blog-post -->
+      </div>
+      <!-- /.blog-main -->
+
+      <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+        <div class="sidebar-module sidebar-module-inset">
+          <h4>关于</h4>
+          <p>写这个笔记网页的时候遇见的一些关于
+            <em>CSS样式</em> 的问题</p>
+          <p>网页的模板来自
+            <a href="https://v3.bootcss.com/getting-started/#examples">Bootstrap</a>
+          </p>
+          <p>解析Markdown到html的操作来自
+            <a href="https://github.com/markedjs/marked">marked</a></p>
+        </div>
+        <div class="sidebar-module">
+          <h4>其他笔记</h4>
+          <ol class="list-unstyled">
+            <li>
+              <a href="./note_0.html">2018年8月14日</a>
+            </li>
+          </ol>
+        </div>
+      </div>
+      <!-- /.blog-sidebar -->
+
+    </div>
+    <!-- /.row -->
+
+  </div>
+  <!-- /.container -->
+
+  <footer class="blog-footer">
+    <p>Code with
+      <span class="glyphicon glyphicon-grain"></span>
+      and
+      <span class="glyphicon glyphicon-music"></span> by
+      <a href="https://github.com/Brickea">Brickea</a>
+      <p>
+        <a href="#">返回顶部</a>
+      </p>
+  </footer>
+
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <!-- marked解析md转html -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    document.getElementById("result").innerHTML = marked(document.getElementById("content").value);
+  </script>
+
+</body>
+
+</html>
