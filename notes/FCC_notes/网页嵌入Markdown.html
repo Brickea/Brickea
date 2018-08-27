@@ -23,36 +23,35 @@
 <body>
   <!-- 由于github挂载目前只能是静态网页，所以先把内容写死在这里，注意前面不能有空格，否则md文件无法正常解析 -->
   <textarea id="content" style="display: none;">
-# FCC学习笔记
+# 网页嵌入Markdown
 
 BRICKEA
 
----
-
-## 前端基础相关
-
-### [HTML5 CSS](HTMLCSS.html)
-
-### [Responsive Design](Responsive_Design.html)
-
-### [JS](JS.html)
-
-### [jQuery](jQuery.html)
-
-### [JSObjectPrograming](JSObjectPrograming.html)
-
-* 大部分是针对数组对象的操作
+2018年8月15日
 
 ---
 
-## 网站建设相关
+## 网站整合Markdown
 
-### [个人网页样式NOTE](个人网页样式NOTE.html)
+原理很简单，就是识别出来md语法后转换成为相应的html语句就可以了
 
-### [网页嵌入Markdown](网页嵌入Markdown.html)
+md识别的话有很多解释器，像是showdown.js marked.js都可以，甚至可以自己写一个
 
----
+## 整合步骤
 
+* 下载一个解释器，我用的是[marked.js](https://github.com/markedjs/marked)
+
+* 引到你的html里面
+
+* 找个textarea放你的md语法内容
+
+* js转换
+
+```js
+    var content = document.getElementById("content").value;
+    var transferedContent = marked(content);
+    document.getElementById("result").innerHTML = transferedContent;
+```
 </textarea>
 
   <nav class="navbar navbar-inverse navbar-static-top">
@@ -95,10 +94,13 @@ BRICKEA
             <a href="https://github.com/Brickea">My Github</a>
           </li>
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">故事
+            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">笔记
               <span class="caret"></span>
             </a>
             <ul class="dropdown-menu">
+              <li>
+                <a href="#">故事</a>
+              </li>
               <li>
                 <a href="../../story/旅途/story_trip_0.html">旅途</a>
               </li>
@@ -128,11 +130,21 @@ BRICKEA
       <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
         <div class="sidebar-module sidebar-module-inset">
           <h4>关于</h4>
-          <p>FreeCodeCamp学习笔记</p>
-          <p><a href="https://github.com/kamranahmedse/developer-roadmap">前端学习路线</a></p>
+          <p>写这个笔记网页的时候遇见的一些关于
+            <em>CSS样式</em> 的问题</p>
           <p>网页的模板来自
             <a href="https://v3.bootcss.com/getting-started/#examples">Bootstrap</a>
           </p>
+          <p>解析Markdown到html的操作来自
+            <a href="https://github.com/markedjs/marked">marked</a></p>
+        </div>
+        <div class="sidebar-module">
+          <h4>其他笔记</h4>
+          <ol class="list-unstyled">
+            <li>
+              <a href="./个人网页样式NOTE.html">个人网页样式NOTE</a>
+            </li>
+          </ol>
         </div>
       </div>
       <!-- /.blog-sidebar -->
