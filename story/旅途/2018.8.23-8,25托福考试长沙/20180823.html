@@ -142,46 +142,7 @@ BRICKEA
         <a class="navbar-brand" href="https://github.com/Brickea">Brickea</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
-          <li>
-            <a href="../../../index.html">首页</a>
-          </li>
-          <li class="dropdown">
-              <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">笔记
-                  <span class="caret"></span>
-              </a>
-              <ul class="dropdown-menu">
-                  <li>
-                      <a href="../../../notes/FCC_notes/note_0.html">FreeCodeCamp学习笔记</a>
-                  </li>
-                  <li class="disabled">
-                      <a href="#">JS奇淫技巧</a>
-                  </li>
-                  <li class="disabled">
-                      <a href="#">面试笔记</a>
-                  </li>
-              </ul>
-          </li>
-          <li>
-            <a href="https://github.com/Brickea">My Github</a>
-          </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">故事
-              <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu">
-              <li>
-                <a href="../story_trip_0.html">旅途</a>
-              </li>
-              <li class="disabled">
-                <a href="#">支教</a>
-              </li>
-              <li class="disabled">
-                <a href="#">杂七杂八</a>
-              </li>
-            </ul>
-          </li>
-        </ul>
+        <ul id="menuList" class="nav navbar-nav"></ul>
       </div>
     </div>
   </nav>
@@ -233,7 +194,7 @@ BRICKEA
   <!-- Bootstrap core JavaScript
     ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
-  <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+  <script src="../../../js/mainPageNavbar.js"></script>
   <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <!-- marked解析md转html -->
@@ -242,6 +203,7 @@ BRICKEA
     document.getElementById("result").innerHTML = marked(document.getElementById("content").value);
   </script>
 
+  <script src="../../../js/jquery-3.3.1.min.js"></script>
 </body>
 
 </html>

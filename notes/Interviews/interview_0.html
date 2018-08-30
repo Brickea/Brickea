@@ -23,27 +23,11 @@
 <body>
   <!-- 由于github挂载目前只能是静态网页，所以先把内容写死在这里，注意前面不能有空格，否则md文件无法正常解析 -->
   <textarea id="content" style="display: none;">
-# 旅途-20180823-长沙托福考试
+# 面试笔记
 
-BRICKEA
+## 兼职面试
 
-2018年8月23日-2018年8月25日
-
-## [2018年8月23日长沙托福第一天](./2018.8.23-8,25托福考试长沙/20180823.html)
-
-![20180823](../pictures/旅途-20180823长沙托福/路飞青旅公共场所.jpg)
-
----
-
-## [2018年8月24日长沙托福第二天](./2018.8.23-8,25托福考试长沙/20180824.html)
-
-![20180823](../pictures/旅途-20180824长沙托福/豆皮趴在台阶上.jpg)
-
----
-
-## [2018年8月25日长沙托福第三天](./2018.8.23-8,25托福考试长沙/20180825.html)
-
-![20180823](../pictures/旅途-20180825长沙托福/离开.jpg)
+### [StarBulks]()
 
 </textarea>
 
@@ -63,7 +47,46 @@ BRICKEA
         <a class="navbar-brand" href="https://github.com/Brickea">Brickea</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
-        <ul id="menuList" class="nav navbar-nav"></ul>
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="../../index.html">首页</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">笔记
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="./note_0.html">FreeCodeCamp学习笔记</a>
+              </li>
+              <li class="disabled">
+                <a href="#">JS奇淫技巧</a>
+              </li>
+              <li>
+                <a href="./interview_0.html">面试笔记</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="https://github.com/Brickea">My Github</a>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">故事
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="../../story/旅途/story_trip_0.html">旅途</a>
+              </li>
+              <li class="disabled">
+                <a href="#">支教</a>
+              </li>
+              <li class="disabled">
+                <a href="#">杂七杂八</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </div>
   </nav>
@@ -81,15 +104,11 @@ BRICKEA
       <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
         <div class="sidebar-module sidebar-module-inset">
           <h4>关于</h4>
-          <p>旅途</p>
-        </div>
-        <div class="sidebar-module">
-          <h4>其他故事</h4>
-          <ol class="list-unstyled">
-            <li>
-              <a href="./story_trip_0.html">长沙托福</a>
-            </li>
-          </ol>
+          <p>FreeCodeCamp学习笔记</p>
+          <p><a href="https://github.com/kamranahmedse/developer-roadmap">前端学习路线</a></p>
+          <p>网页的模板来自
+            <a href="https://v3.bootcss.com/getting-started/#examples">Bootstrap</a>
+          </p>
         </div>
       </div>
       <!-- /.blog-sidebar -->
@@ -115,7 +134,7 @@ BRICKEA
   <!-- Bootstrap core JavaScript
     ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
-  <script src="../../js/jquery-3.3.1.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <!-- marked解析md转html -->
@@ -123,8 +142,6 @@ BRICKEA
   <script>
     document.getElementById("result").innerHTML = marked(document.getElementById("content").value);
   </script>
-
-  <script src="../../js/mainPageNavbar.js"></script>
 
 </body>
 
