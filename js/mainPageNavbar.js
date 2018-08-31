@@ -11,7 +11,6 @@ $(document).ready(function () {
     var aHomePage = document.createElement("a");
 
     aHomePage.setAttribute("href",mainPath + "index.html");
-    liHomePage.setAttribute("class","active")
     aHomePage.innerText = "首页";
 
     liHomePage.appendChild(aHomePage);
@@ -126,4 +125,15 @@ $(document).ready(function () {
 
     mainList.appendChild(liStoryPage);
     // ---故事创建完毕
+
+    var liPushPage = document.createElement("li");
+    var aPushPage = document.createElement("a");
+
+    aPushPage.setAttribute("href",mainPath + "push/2018年8月31日.html");
+    aPushPage.innerText = "每周推送";
+
+    liPushPage.appendChild(aPushPage);
+
+    mainList.appendChild(liPushPage);
+    // ---每周推送创建完毕
 });
