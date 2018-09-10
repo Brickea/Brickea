@@ -129,7 +129,7 @@ $(document).ready(function () {
     var liPushPage = document.createElement("li");
     var aPushPage = document.createElement("a");
 
-    aPushPage.setAttribute("href",mainPath + "push/第一篇周推送2018年8月31日.html");
+    aPushPage.setAttribute("href",mainPath + "push/第二篇周推送2018年9月2日.html");
     aPushPage.innerText = "每周推送";
 
     liPushPage.appendChild(aPushPage);
