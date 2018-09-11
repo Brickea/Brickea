@@ -111,7 +111,7 @@ $(document).ready(function () {
 
     var liStoryElse = document.createElement("li");
     var aStoryElse = document.createElement("a");
-    aStoryElse.setAttribute("href", mainPath + "thinking/think_0.html");
+    aStoryElse.setAttribute("href", mainPath + "thinking/thinking_0.html");
     aStoryElse.innerText = "杂七杂八";
     liStoryElse.appendChild(aStoryElse);
 
