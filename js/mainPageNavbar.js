@@ -111,9 +111,8 @@ $(document).ready(function () {
 
     var liStoryElse = document.createElement("li");
     var aStoryElse = document.createElement("a");
-    aStoryElse.setAttribute("href", mainPath + "notes/Interviews/interview_0.html");
+    aStoryElse.setAttribute("href", mainPath + "thinking/think_0.html");
     aStoryElse.innerText = "杂七杂八";
-    liStoryElse.setAttribute("class","disabled");
     liStoryElse.appendChild(aStoryElse);
 
     ulStoryPage.appendChild(liStoryTrip);
