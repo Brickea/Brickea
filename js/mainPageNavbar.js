@@ -111,9 +111,8 @@ $(document).ready(function () {
 
     var liStoryElse = document.createElement("li");
     var aStoryElse = document.createElement("a");
-    aStoryElse.setAttribute("href", mainPath + "notes/Interviews/interview_0.html");
+    aStoryElse.setAttribute("href", mainPath + "thinking/thinking_0.html");
     aStoryElse.innerText = "杂七杂八";
-    liStoryElse.setAttribute("class","disabled");
     liStoryElse.appendChild(aStoryElse);
 
     ulStoryPage.appendChild(liStoryTrip);
@@ -129,7 +128,7 @@ $(document).ready(function () {
     var liPushPage = document.createElement("li");
     var aPushPage = document.createElement("a");
 
-    aPushPage.setAttribute("href",mainPath + "push/第一篇周推送2018年8月31日.html");
+    aPushPage.setAttribute("href",mainPath + "push/第二篇周推送2018年9月2日.html");
     aPushPage.innerText = "每周推送";
 
     liPushPage.appendChild(aPushPage);
