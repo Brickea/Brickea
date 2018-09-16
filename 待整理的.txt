@@ -1,17 +1,25 @@
-https://zhidao.baidu.com/question/168009037.html  $(funciton(){})
+ï»¿https://zhidao.baidu.com/question/168009037.html  $(funciton(){})
 
-https://www.cnblogs.com/Deerjiadelu/p/7365810.html  a±êÇ©´«µİ²ÎÊıÒÔ¼°ÏàÓ¦µÄ»ñÈ¡
+https://www.cnblogs.com/Deerjiadelu/p/7365810.html  aæ ‡ç­¾ä¼ é€’å‚æ•°ä»¥åŠç›¸åº”çš„è·å–
 
-https://blog.csdn.net/u010117950/article/details/78745231  jquery²Ù×÷cookie
+https://blog.csdn.net/u010117950/article/details/78745231  jqueryæ“ä½œcookie
 
-https://blog.csdn.net/gt15886435708/article/details/78767726  cookieµÄpathÉèÖÃ
+https://blog.csdn.net/gt15886435708/article/details/78767726  cookieçš„pathè®¾ç½®
 
-https://www.cnblogs.com/crazy-fox/archive/2012/01/08/2316499.html  cookieµÄÏêÏ¸ÉèÖÃ
+https://www.cnblogs.com/crazy-fox/archive/2012/01/08/2316499.html  cookieçš„è¯¦ç»†è®¾ç½®
 
-http://www.w3school.com.cn/jsref/prop_win_top.asp µ¯³ö¿ò¼Ü
+http://www.w3school.com.cn/jsref/prop_win_top.asp å¼¹å‡ºæ¡†æ¶
 
-http://www.w3school.com.cn/jsref/prop_doc_url.asp  document.URLºÍwindow.URLµÄ²»Í¬
+http://www.w3school.com.cn/jsref/prop_doc_url.asp  document.URLå’Œwindow.URLçš„ä¸åŒ
 
-https://www.cnblogs.com/wancheng7/p/8542544.html  µÇÂ½ºó½ûÖ¹·µ»ØÉÏÒ»Ò³
+https://www.cnblogs.com/wancheng7/p/8542544.html  ç™»é™†åç¦æ­¢è¿”å›ä¸Šä¸€é¡µ
 
-https://blog.csdn.net/u014175572/article/details/52065076/  Çå³ıËùÓĞcookie
+https://blog.csdn.net/u014175572/article/details/52065076/  æ¸…é™¤æ‰€æœ‰cookie
+
+https://www.cnblogs.com/bettyling/p/8064424.html  cookieä¸å¯ä»¥æœ¬åœ°å­˜å‚¨çš„é—®é¢˜
+
+https://blog.csdn.net/tangxiujiang/article/details/80927699  vscodeå¼€å¯æœ¬åœ°localhostè°ƒè¯•
+
+https://zhidao.baidu.com/question/535214548.html  iframeè·å–çˆ¶é¡µé¢ç›¸å…³
+
+https://blog.csdn.net/xqhys/article/details/68483365  Uncaught SecurityError: Blocked a frame with origin "null" from accessing a frame with origin "null"çš„é—®é¢˜
