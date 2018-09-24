@@ -8,7 +8,7 @@
   <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
   <meta name="description" content="Brickea的笔记">
   <meta name="author" content="Brickea">
-  <link rel="icon" href="../pictures/favicon.ico">
+  <link rel="icon" href="../../pictures/favicon.ico">
 
   <title>Brickea的笔记</title>
 
@@ -16,23 +16,48 @@
   <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="../css/noteStyle.css" rel="stylesheet">
+  <link href="../../css/noteStyle.css" rel="stylesheet">
 
 </head>
 
 <body>
   <!-- 由于github挂载目前只能是静态网页，所以先把内容写死在这里，注意前面不能有空格，否则md文件无法正常解析 -->
   <textarea id="content" style="display: none;">
-# 每周推送汇总
+# 技术类学习笔记汇总
 
-### [第一篇周推送2018年8月31日-碳水寿命、正当防卫](./第一篇周推送2018年8月31日.html)
+BRICKEA
 
-### [第二篇周推送2018年9月2日-交通上的时间、僧侣和歌手](./第二篇周推送2018年9月2日.html)
+---
 
-### [第三篇周推送2018年9月16日-世界上第一艘潜艇](./第三篇周推送2018年9月16日.html)
+## 1. 前端基础相关
 
-### [第四篇推送2018年9月19日-未来的存储仍可能是磁带](./第四篇周推送2018年9月19日.html)
+### FCC
 
+#### [HTML5 CSS](./FCC_notes/HTMLCSS.html)
+
+#### [Responsive Design](./FCC_notes/Responsive_Design.html)
+
+#### [JS](./FCC_notes/JS.html)
+
+#### [jQuery](./FCC_notes/jQuery.html)
+
+#### [JSObjectPrograming](./FCC_notes/JSObjectPrograming.html)
+
+* 大部分是针对数组对象的操作
+
+---
+
+## 2. 网站建设相关
+
+### [个人网页样式NOTE](个人网页样式NOTE.html)
+
+### [网页嵌入Markdown](网页嵌入Markdown.html)
+
+---
+
+## 3. 项目开发相关
+
+### [2018年9月红中项目前端开发笔记](./Layui_notes/2018年9月红中项目前端开发笔记.html)
 </textarea>
 
   <nav class="navbar navbar-inverse navbar-static-top">
@@ -46,7 +71,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand">
-          <img class="img-responsive" alt="Brickea的头像" src="../pictures/favicon.ico" style="height: 2rem;">
+          <img class="img-responsive" alt="Brickea的头像" src="../../pictures/favicon.ico" style="height: 2rem;">
         </a>
         <a class="navbar-brand" href="https://github.com/Brickea">Brickea</a>
       </div>
@@ -69,7 +94,11 @@
       <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
         <div class="sidebar-module sidebar-module-inset">
           <h4>关于</h4>
-          <p>每周推送所有记录</p>
+          <p>技术类学习笔记汇总</p>
+          <p><a href="https://github.com/kamranahmedse/developer-roadmap">前端学习路线</a></p>
+          <p>网页的模板来自
+            <a href="https://v3.bootcss.com/getting-started/#examples">Bootstrap</a>
+          </p>
         </div>
       </div>
       <!-- /.blog-sidebar -->
@@ -95,7 +124,7 @@
   <!-- Bootstrap core JavaScript
     ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
-  <script src="../js/jquery-3.3.1.min.js"></script>
+  <script src="../../js/jquery-3.3.1.min.js"></script>
   <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   <!-- marked解析md转html -->
@@ -104,7 +133,7 @@
     document.getElementById("result").innerHTML = marked(document.getElementById("content").value);
   </script>
 
-  <script src="../js/mainPageNavbar.js"></script>
+  <script src="../../js/mainPageNavbar.js"></script>
 
 </body>
 

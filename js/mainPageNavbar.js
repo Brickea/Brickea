@@ -39,8 +39,8 @@ $(document).ready(function () {
 
     var liNoteFCC = document.createElement("li");
     var aNoteFCC = document.createElement("a");
-    aNoteFCC.setAttribute("href", mainPath + "notes/FCC_notes/note_0.html");
-    aNoteFCC.innerText = "FreeCodeCamp学习笔记";
+    aNoteFCC.setAttribute("href", mainPath + "notes/note_0.html");
+    aNoteFCC.innerText = "技术类学习笔记汇总";
     liNoteFCC.appendChild(aNoteFCC);
 
     var liNoteJS = document.createElement("li");
@@ -128,7 +128,7 @@ $(document).ready(function () {
     var liPushPage = document.createElement("li");
     var aPushPage = document.createElement("a");
 
-    aPushPage.setAttribute("href",mainPath + "push/第三篇周推送2018年9月16日.html");
+    aPushPage.setAttribute("href",mainPath + "push/第四篇周推送2018年9月19日.html");
     aPushPage.innerText = "每周推送";
 
     liPushPage.appendChild(aPushPage);
