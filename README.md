@@ -4,11 +4,12 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 ---
 
 I'm Brickea, a graduate student🐱‍👓 in [Northeastern University](https://www.northeastern.edu/). And I'm trying hard to become a full-stack SDE🎯.
 
-<img align="right" alt="Brickea's github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=brickea">
+<img align="right" alt="Brickea's github stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=brickea">
 
 * ⚒️ My life is full of coding, music, cats, and guitar.
 * <a href="https://leetcode-cn.com/u/brickea/"><img align="left" alt="Brickea's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> If you are struggling with Leetcode. Here is my solutions [notes😁](https://github.com/Brickea/Brickea-learning-records/blob/master/Data_structure_algorithm/Leetcode/record.md)
