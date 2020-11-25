@@ -12,7 +12,7 @@ I'm Brickea, a graduate student🐱‍👓 in [Northeastern University](https://
 <img align="right" alt="Brickea's github stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=brickea">
 
 * ⚒️ My life is full of coding, music, cats, and guitar.
-* <a href="https://leetcode-cn.com/u/brickea/"><img align="left" alt="Brickea's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> If you are struggling with Leetcode. Here is my solutions [notes😁](https://github.com/Brickea/Brickea-learning-records/blob/master/Data_structure_algorithm/Leetcode/record.md)
+* <a href="https://leetcode-cn.com/u/brickea/"><img align="left" alt="Brickea's Leetcode" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a>If you are struggling with Leetcode. Here is my solutions [notes😁](https://github.com/Brickea/Brickea-learning-records/blob/master/Data_structure_algorithm/Leetcode/record.md)
 *  👉Ask me about anything, I'm happy to help. Here is my email <a href="brickeawang@gmail.com">📬</a> 
 * 🧐Next goal will be like being a code magister. So let me try to get a A++++ for this github stats lol
 
@@ -30,9 +30,4 @@ I'm Brickea, a graduate student🐱‍👓 in [Northeastern University](https://
 
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50px">
 
-    
-
-    
-
 ---
-
