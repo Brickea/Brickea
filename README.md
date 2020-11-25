@@ -8,11 +8,11 @@
 
 I'm Brickea, a graduate student🐱‍👓 in [Northeastern University](https://www.northeastern.edu/). And I'm trying hard to become a full-stack SDE🎯.
 
-<img align="right" alt="Brickea's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=brickea">
+<img align="right" alt="Brickea's github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=brickea">
 
 * ⚒️ My life is full of coding, music, cats, and guitar.
 * <a href="https://leetcode-cn.com/u/brickea/"><img align="left" alt="Brickea's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" /></a> If you are struggling with Leetcode. Here is my solutions [notes😁](https://github.com/Brickea/Brickea-learning-records/blob/master/Data_structure_algorithm/Leetcode/record.md)
-*  Ask me about anything, I'm happy to help. Here is my email <a href="brickeawang@gmail.com">📬</a>
+*  👉Ask me about anything, I'm happy to help. Here is my email <a href="brickeawang@gmail.com">📬</a> 
 * 🧐Next goal will be like being a code magister. So let me try to get a A++++ for this github stats lol
 
     <img src="http://wiki.stat.ucla.edu/distributome/uploads/a/a2/JAVA_animated.gif" width="25px">
