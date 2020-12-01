@@ -31,4 +31,7 @@ I'm Brickea, a graduate student🐱‍👓 in [Northeastern University](https://
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50px">
 
 ---
-<img src="https://wakatime.com/share/@dfc79067-17f4-476f-a82b-520387527b49/fa7ef748-77ea-443e-80b4-e37d5f579570.svg" width=100% align="left"></img>
+
+<h2 align="center">🥢 Code cooking time 🍽</h2>
+
+<img src="https://wakatime.com/share/@dfc79067-17f4-476f-a82b-520387527b49/72801858-5413-472c-95fa-540590573275.svg" width=100% align="left"></img>
