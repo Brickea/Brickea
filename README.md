@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
+Week: 24 November, 2020 - 01 December, 2020
 
 Markdown    8 hrs 44 mins   ███████████▒░░░░░░░░░░░░░   45.98 % 
 Terraform   4 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.83 % 
