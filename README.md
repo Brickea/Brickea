@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2020 - 04 December, 2020
+Week: 28 November, 2020 - 05 December, 2020
 
-Terraform   12 hrs 15 mins  █████████████▒░░░░░░░░░░░   53.44 % 
-Markdown    6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-Java        1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-YAML        1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-Other       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Terraform   13 hrs 34 mins  █████████████░░░░░░░░░░░░   52.52 % 
+Markdown    6 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+YAML        1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Java        1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Other       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 <!--END_SECTION:waka-->
 
