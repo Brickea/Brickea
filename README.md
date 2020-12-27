@@ -4,10 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
+Week: 19 December, 2020 - 26 December, 2020
 
-Markdown   40 mins         ████████████████▓░░░░░░░░   66.98 % 
-Other      19 mins         ████████▒░░░░░░░░░░░░░░░░   33.02 % 
+
 ```
 <!--END_SECTION:waka-->
 
