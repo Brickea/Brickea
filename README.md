@@ -4,9 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2020 - 28 December, 2020
+Week: 22 December, 2020 - 29 December, 2020
 
-
+Markdown    2 hrs           █████████████████████░░░░   84.59 % 
+YAML        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+JSON        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Terraform   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Bash        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
 
