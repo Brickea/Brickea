@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2020 - 30 December, 2020
+Week: 24 December, 2020 - 31 December, 2020
 
 Markdown    2 hrs           █████████████████████░░░░   84.59 % 
 YAML        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
