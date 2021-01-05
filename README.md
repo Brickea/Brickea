@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2020 - 03 January, 2021
+Week: 28 December, 2020 - 04 January, 2021
 
-Markdown    2 hrs 23 mins   █████████████████████▓░░░   86.66 % 
-YAML        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-JSON        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Terraform   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Bash        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Markdown    2 hrs 47 mins   █████████████████████▓░░░   87.18 % 
+YAML        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+JSON        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Terraform   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Bash        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
