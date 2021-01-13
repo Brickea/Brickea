@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2021 - 11 January, 2021
+Week: 05 January, 2021 - 12 January, 2021
 
 Markdown    4 hrs 45 mins   ███████████░░░░░░░░░░░░░░   44.63 % 
 Terraform   2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 % 
