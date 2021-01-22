@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2021 - 20 January, 2021
+Week: 14 January, 2021 - 21 January, 2021
 
-Markdown    4 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Terraform   3 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   28.84 % 
-YAML        2 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Java        1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-JSON        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Markdown    3 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.25 % 
+Terraform   2 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 % 
+YAML        2 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Java        1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JSON        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 ```
 <!--END_SECTION:waka-->
 
