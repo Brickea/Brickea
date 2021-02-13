@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2021 - 11 February, 2021
+Week: 05 February, 2021 - 12 February, 2021
 
-Java        11 hrs 12 mins  ███████████████████░░░░░░   75.66 % 
-Markdown    1 hr 41 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Terraform   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-XML         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Other       20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Java        8 hrs 33 mins   ███████████████████▓░░░░░   78.66 % 
+Markdown    46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Terraform   37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+XML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Other       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 <!--END_SECTION:waka-->
 
