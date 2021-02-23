@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2021 - 21 February, 2021
+Week: 15 February, 2021 - 22 February, 2021
 
-Java         4 hrs 57 mins   █████████████████░░░░░░░░   68.62 % 
-JSON         56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Properties   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Python       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Java         4 hrs 25 mins   ████████████████▓░░░░░░░░   66.43 % 
+JSON         57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Properties   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Python       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 <!--END_SECTION:waka-->
 
