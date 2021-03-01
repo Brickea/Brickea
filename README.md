@@ -4,10 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 21 February, 2021 - 28 February, 2021
 
-Java         34 mins         ██████████████████▒░░░░░░   73.34 % 
-Git Config   11 mins         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Java         1 hr 13 mins    ████████████████████████▓   98.04 % 
 ```
 <!--END_SECTION:waka-->
 
