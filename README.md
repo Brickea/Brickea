@@ -4,9 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
-Java         1 hr 13 mins    ████████████████████████▓   98.04 % 
+Java   41 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
