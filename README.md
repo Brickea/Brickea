@@ -4,9 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
+Week: 23 February, 2021 - 02 March, 2021
 
-Java   41 mins         █████████████████████████   100.00 % 
+Java       1 hr 24 mins    ███████████████████████░░   91.70 % 
+XML        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JSON       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
 
