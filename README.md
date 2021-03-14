@@ -4,12 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 March, 2021 - 12 March, 2021
+Week: 06 March, 2021 - 13 March, 2021
 
-Java         2 hrs 17 mins   ██████████████████████▒░░   89.91 % 
-Text         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Java         1 hr 55 mins    ██████████████████████▓░░   90.53 % 
+Text         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
 <!--END_SECTION:waka-->
 
