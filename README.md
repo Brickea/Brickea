@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 March, 2021 - 28 March, 2021
+Week: 22 March, 2021 - 29 March, 2021
 
-Markdown     3 hrs 39 mins   ████████████████████░░░░░   80.41 % 
-Java         51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 % 
-CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown   2 hrs 23 mins   ███████████████████▓░░░░░   78.09 % 
+Java       38 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 % 
+CSV        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
 
