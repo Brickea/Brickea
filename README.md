@@ -4,10 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 March, 2021 - 04 April, 2021
-
-Java       32 mins         ███████████████▓░░░░░░░░░   62.87 % 
-Markdown   19 mins         █████████▒░░░░░░░░░░░░░░░   37.13 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
