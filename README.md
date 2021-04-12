@@ -4,7 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 April, 2021 - 11 April, 2021
+
+HTML    59 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
