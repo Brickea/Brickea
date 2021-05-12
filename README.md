@@ -4,12 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
-JavaScript   4 hrs 32 mins   ██████████████▒░░░░░░░░░░   57.30 % 
-Properties   3 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.71 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Java         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript   5 hrs 34 mins   ██████████████▒░░░░░░░░░░   56.99 % 
+Properties   3 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 % 
+Java         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 <!--END_SECTION:waka-->
 
