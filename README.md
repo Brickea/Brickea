@@ -4,12 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 May, 2021 - 17 May, 2021
-
-JavaScript   1 hr 18 mins    ███████████████▒░░░░░░░░░   61.17 % 
-Java         35 mins         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-Properties   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-CSS          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
